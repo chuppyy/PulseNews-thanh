@@ -3,8 +3,8 @@ export const VARIABLES = {
   APP_API2: "https://apinewss.vbonews.com",
   NEXT_PUBLIC_APP_API: "https://apinewss.vbonews.com",
   NEXT_PUBLIC_APP_API2: "https://apinewss.vbonews.com",
-  VERIFICATION_CODE: "OQhbutYIbK",
-  DOMAIN: "topnewsus",
+  VERIFICATION_CODE: "sTIPjUriqo",
+  DOMAIN: "pulsenews",
 
   // Google
   GOOGLE_ANALYSIS: "G-ZZT0BRGY7L",
