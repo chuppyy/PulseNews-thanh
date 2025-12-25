@@ -7,7 +7,7 @@ export const VARIABLES = {
   DOMAIN: "topnewsus",
 
   // Google
-  GOOGLE_ANALYSIS: "G-RZ218Z0QZ1",
+  GOOGLE_ANALYSIS: "G-ZZT0BRGY7L",
   googleClientId: "ca-pub-2388584177550957",
   googleClientSlotId: "9127559985",
   googleAdSlot: "1932979136",
